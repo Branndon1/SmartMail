@@ -1,16 +1,18 @@
 # SmartMail: AI-Powered Email Reply Generator
 
 
+<img width="1421" height="760" alt="Screenshot 2025-07-16 123301" src="https://github.com/user-attachments/assets/3c57c14d-c649-4f32-a9be-bacbf2f08599" />
+
+
+<img width="1505" height="425" alt="Screenshot 2025-07-16 122600" src="https://github.com/user-attachments/assets/52f506f3-cdea-44e8-92cf-743d23c6a875" />
+
+
+<img width="1518" height="413" alt="Screenshot 2025-07-16 122431" src="https://github.com/user-attachments/assets/2b3cd490-0004-4286-9178-028991345867" />
 
 
 
-<img width="1421" height="760" alt="Screenshot 2025-07-16 123301" src="https://github.com/user-attachments/assets/afe77fe3-b13f-450c-97df-04fe46213202" />
 
 
-<img width="1518" height="413" alt="Screenshot 2025-07-16 122431" src="https://github.com/user-attachments/assets/bcf492a1-f202-4ae3-9b03-4891650bf74e" />
-
-
-<img width="1505" height="425" alt="Screenshot 2025-07-16 122600" src="https://github.com/user-attachments/assets/75ffd381-4f1e-4de3-9d70-fff44580e212" />
 
 
 
