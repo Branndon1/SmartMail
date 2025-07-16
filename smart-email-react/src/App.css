@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #f1f3f4;
+}
+
+button {
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
