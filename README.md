@@ -90,7 +90,7 @@ The backend API will be available at `http://localhost:8080/api/email/generate`.
 ### 1. Navigate to the frontend folder
 
 ```bash
-cd frontend
+cd smart-email-react
 ```
 
 ### 2. Install dependencies
